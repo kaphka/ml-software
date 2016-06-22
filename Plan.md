@@ -1,17 +1,18 @@
 # Plan
 
-## Software-Frameworks zur Umsetzung von Künstlichen Neuronalen Netzwerken 
+# Software-Frameworks zur Umsetzung von Künstlichen Neuronalen Netzwerken 
 
-Konzepte die umgesetzt werden:
+## Konzepte die umgesetzt werden
 
 Netzwerk-Architektur (formale Defintion) 
 technische Umsetzung (Ausfürung)
 validierung?
-technische Herausforderungen:
+technische Herausforderungen
 
-Probleme:
+## Technische Probleme:
+
 Rechenaufwand
-vanishing gradient
+Nutzung von CPU, GPU, RAM Features 
 Daten(speichern, organisieren, labeln) 
-
-
+Modelle speichern
+kompatibilitat von Architektur und Model
