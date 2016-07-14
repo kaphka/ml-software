@@ -48,6 +48,6 @@ unterschiedliche Abstraktionsgrade der Framework zu untersuchen (von Low- zu Hig
 
 4. CIFAR-10 dataset
 
- Aktuelle Methoden
+ Aktuelle Methoden, Laden und anpassen
 
-Jede Lösung besteht aus 3 Schritten: Modellierung, Training und Evaluierung.
+Jede Lösung besteht aus 3 Schritten: Modellierung, Training, Persistierung, Evaluierung und Visualisierung.
